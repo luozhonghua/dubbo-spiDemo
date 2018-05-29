@@ -1,8 +1,0 @@
-com\pojo\People.class
-com\spi\DemoService.class
-com\spi\mains.class
-com\parser\PeopleBeanDefinitionParser.class
-com\dubbo\test\DemoApplication.class
-com\spi\SecondServiceImpl.class
-com\parser\MyNamespaceHandler.class
-com\spi\FirstServiceImpl.class
